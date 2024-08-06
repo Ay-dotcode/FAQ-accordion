@@ -1,0 +1,5 @@
+@media (max-width: 45em) {
+    main {
+        width: 375px;
+    }
+}
