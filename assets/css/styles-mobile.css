@@ -2,4 +2,14 @@
     main {
         width: 375px;
     }
+
+    section img {
+        margin-left: 2rem;
+    }
+
+    p {
+        margin-right: 2rem
+    }
+
+    ;
 }
