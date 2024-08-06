@@ -10,6 +10,8 @@ body {
     background-color: hsl(275, 100%, 97%);
     display: grid;
     place-items: center;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
     height: 100vh;
     font-family: 'Work Sans';
 }
@@ -17,6 +19,7 @@ body {
 main {
     background-color: white;
     width: 550px;
+    height: fit-content;
     padding: 2rem;
 }
 
@@ -35,4 +38,9 @@ div {
 h2 {
     font-size: 1.1rem;
     font-weight: 600;
+}
+
+p {
+    display: none;
+
 }
