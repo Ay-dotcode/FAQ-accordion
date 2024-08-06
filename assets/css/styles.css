@@ -54,7 +54,8 @@ h2:hover {
 
 p {
     display: none;
-    margin: 1rem 0;
+    margin-bottom: 1.5rem;
+    margin-top: .5rem;
     font-size: .9rem;
     font-weight: 400;
     color: hsl(292, 16%, 49%);
